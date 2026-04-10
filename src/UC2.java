@@ -29,3 +29,4 @@ public class UC2 {
         System.out.println("Final Passenger Bogies: " + passengerBogies);
     }
 }
+// UC2 implementation update
