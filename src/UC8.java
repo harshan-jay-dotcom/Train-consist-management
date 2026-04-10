@@ -28,3 +28,4 @@ public class UC8 {
         System.out.println("\nOriginal List Size: " + bogies.size());
     }
 }
+// UC8 implementation update
