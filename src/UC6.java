@@ -31,3 +31,4 @@ public class UC6 {
         System.out.println(firstClass);
     }
 }
+// UC6 implementation update
